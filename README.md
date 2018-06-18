@@ -1,0 +1,2 @@
+# originSubmodule
+Popis originalniho submodulu
